@@ -30,7 +30,7 @@ I'm currently enhancing my expertise in:
 Beyond testing, I enjoy exploring new technologies, sharing knowledge through blogs, and contributing to open-source projects.
 
 ## 📫 Let's Connect!  
-- **LinkedIn**: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/prantika-biswas-sneha-98072a1a1/)]  
+- **LinkedIn**: [[MyLinkedIn Profile URL](https://www.linkedin.com/in/prantika-biswas-sneha-98072a1a1/)]  
 - **Email**: [prantika.sneha@gmail.com]  
 
 
