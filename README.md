@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm [Prantika Biswas Sneha]
+# Hi there! 👋 I'm Prantika Biswas Sneha
 
 Welcome to my GitHub profile! I'm a **Software Quality Assurance (SQA) Engineer** with a passion for delivering robust, high-quality software. I specialize in ensuring smooth user experiences through meticulous testing and continuous improvement.
 
 ## 🛠️ Skills & Expertise  
-- **Testing Tools**: [Selenium, Postman, JIRA, ]  
+- **Testing Tools**: Selenium, Postman, JIRA, JMeter, Junit  
 - **Testing Types**: Functional Testing, Regression Testing, API Testing, Performance Testing  
 - **Methodologies**: Agile, Scrum  
-- **Programming Knowledge**: [Java,C, C++]  
+- **Programming Knowledge**: Java,C, C++  
 - **Automation**: Designing and implementing test automation frameworks  
 - **Defect Tracking**: Detailed bug reporting and tracking to resolution  
 
