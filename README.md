@@ -27,10 +27,9 @@ I'm currently enhancing my expertise in:
 - Actively sharing insights and tools that can enhance QA processes  
 
 ## 💡 Interests  
-Beyond testing, I enjoy exploring new technologies, sharing knowledge through blogs, and contributing to open-source projects.
-
+Beyond testing, I’m passionate about learning new technologies, exploring the latest trends in software development, and improving software quality practices.
 ## 📫 Let's Connect!  
-- **LinkedIn**: [[MyLinkedIn Profile URL](https://www.linkedin.com/in/prantika-biswas-sneha-98072a1a1/)]  
+- **LinkedIn**: [[My LinkedIn Profile URL](https://www.linkedin.com/in/prantika-biswas-sneha-98072a1a1/)]  
 - **Email**: [prantika.sneha@gmail.com]  
 
 
